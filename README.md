@@ -12,3 +12,7 @@ Integration of diffrent VR haptic divices in Unity
 
 ### Olfactory
 * [Haptic Solutions](https://hapticsol.com/) - Cilia
+
+
+## additional Tools
+* [VirtualCilia]https://github.com/Ultimatonium/VirtualCilia
